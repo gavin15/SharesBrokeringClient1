@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharesBrokeringClient", "SharesBrokeringClient\SharesBrokeringClient.csproj", "{EDBDE5F2-499A-466A-9AA5-99B4D75CBC10}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2- Service Layer", "2- Service Layer", "{B419D816-42D6-42D1-8843-23C61923242A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1-Domain Layer", "1-Domain Layer", "{2F3CF0B0-F17B-435D-BF82-CC99881EDB44}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3-Presentation Layer", "3-Presentation Layer", "{F68FA93F-5971-4F0B-9F60-75993049E113}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharesBrokeringService", "SharesBrokeringService\SharesBrokeringService.csproj", "{A0E76DAF-1BE0-4A80-B19D-433EE30E4A71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharesBrokeringEntities", "SharesBrokeringEntities\SharesBrokeringEntities.csproj", "{2532515F-9961-49AD-9414-C2C0561DD3CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDBDE5F2-499A-466A-9AA5-99B4D75CBC10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDBDE5F2-499A-466A-9AA5-99B4D75CBC10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDBDE5F2-499A-466A-9AA5-99B4D75CBC10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDBDE5F2-499A-466A-9AA5-99B4D75CBC10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0E76DAF-1BE0-4A80-B19D-433EE30E4A71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0E76DAF-1BE0-4A80-B19D-433EE30E4A71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0E76DAF-1BE0-4A80-B19D-433EE30E4A71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0E76DAF-1BE0-4A80-B19D-433EE30E4A71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2532515F-9961-49AD-9414-C2C0561DD3CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2532515F-9961-49AD-9414-C2C0561DD3CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2532515F-9961-49AD-9414-C2C0561DD3CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2532515F-9961-49AD-9414-C2C0561DD3CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EDBDE5F2-499A-466A-9AA5-99B4D75CBC10} = {F68FA93F-5971-4F0B-9F60-75993049E113}
+		{A0E76DAF-1BE0-4A80-B19D-433EE30E4A71} = {B419D816-42D6-42D1-8843-23C61923242A}
+		{2532515F-9961-49AD-9414-C2C0561DD3CB} = {2F3CF0B0-F17B-435D-BF82-CC99881EDB44}
+	EndGlobalSection
+EndGlobal

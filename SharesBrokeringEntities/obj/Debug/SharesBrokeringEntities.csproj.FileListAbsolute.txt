@@ -1,0 +1,9 @@
+C:\Users\Gavin Royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringEntities\bin\Debug\SharesBrokeringEntities.dll
+C:\Users\Gavin Royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringEntities\bin\Debug\SharesBrokeringEntities.pdb
+C:\Users\Gavin Royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringEntities\obj\Debug\SharesBrokeringEntities.dll
+C:\Users\Gavin Royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringEntities\obj\Debug\SharesBrokeringEntities.pdb
+C:\Users\Gavin Royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringEntities\obj\Debug\SharesBrokeringEntities.csprojResolveAssemblyReference.cache
+C:\SharesBrokeringClient\SharesBrokeringEntities\bin\Debug\SharesBrokeringEntities.dll
+C:\SharesBrokeringClient\SharesBrokeringEntities\bin\Debug\SharesBrokeringEntities.pdb
+C:\SharesBrokeringClient\SharesBrokeringEntities\obj\Debug\SharesBrokeringEntities.dll
+C:\SharesBrokeringClient\SharesBrokeringEntities\obj\Debug\SharesBrokeringEntities.pdb

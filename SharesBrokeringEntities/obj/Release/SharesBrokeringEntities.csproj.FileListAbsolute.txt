@@ -1,0 +1,5 @@
+C:\SharesBrokeringClient\SharesBrokeringEntities\bin\Release\SharesBrokeringEntities.dll
+C:\SharesBrokeringClient\SharesBrokeringEntities\bin\Release\SharesBrokeringEntities.pdb
+C:\SharesBrokeringClient\SharesBrokeringEntities\obj\Release\SharesBrokeringEntities.csprojResolveAssemblyReference.cache
+C:\SharesBrokeringClient\SharesBrokeringEntities\obj\Release\SharesBrokeringEntities.dll
+C:\SharesBrokeringClient\SharesBrokeringEntities\obj\Release\SharesBrokeringEntities.pdb

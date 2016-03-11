@@ -1,0 +1,16 @@
+C:\Users\Gavin Royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringService\bin\Debug\SharesBrokeringService.dll.config
+C:\Users\Gavin Royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringService\bin\Debug\SharesBrokeringService.dll
+C:\Users\Gavin Royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringService\bin\Debug\SharesBrokeringService.pdb
+C:\Users\Gavin Royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringService\obj\Debug\SharesBrokeringService.dll
+C:\Users\Gavin Royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringService\obj\Debug\SharesBrokeringService.pdb
+C:\Users\Gavin Royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringService\obj\Debug\SharesBrokeringService.csprojResolveAssemblyReference.cache
+C:\Users\Gavin Royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringService\bin\Debug\SharesBrokeringEntities.dll
+C:\Users\Gavin Royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringService\bin\Debug\SharesBrokeringEntities.pdb
+C:\SharesBrokeringClient\SharesBrokeringService\bin\Debug\SharesBrokeringService.dll.config
+C:\SharesBrokeringClient\SharesBrokeringService\bin\Debug\SharesBrokeringService.dll
+C:\SharesBrokeringClient\SharesBrokeringService\bin\Debug\SharesBrokeringService.pdb
+C:\SharesBrokeringClient\SharesBrokeringService\bin\Debug\SharesBrokeringEntities.dll
+C:\SharesBrokeringClient\SharesBrokeringService\bin\Debug\SharesBrokeringEntities.pdb
+C:\SharesBrokeringClient\SharesBrokeringService\obj\Debug\SharesBrokeringService.csprojResolveAssemblyReference.cache
+C:\SharesBrokeringClient\SharesBrokeringService\obj\Debug\SharesBrokeringService.dll
+C:\SharesBrokeringClient\SharesBrokeringService\obj\Debug\SharesBrokeringService.pdb

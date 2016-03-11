@@ -1,0 +1,180 @@
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\SharesBrokeringClient.dll.config
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\SharesBrokeringClient.dll
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\SharesBrokeringClient.pdb
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\Antlr3.Runtime.dll
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\DotNetOpenAuth.AspNet.dll
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\DotNetOpenAuth.Core.dll
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\DotNetOpenAuth.OAuth.dll
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\DotNetOpenAuth.OpenId.dll
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\EntityFramework.dll
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\Microsoft.Data.Edm.dll
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\Microsoft.Data.OData.dll
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\Microsoft.Web.Infrastructure.dll
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\Microsoft.Web.WebPages.OAuth.dll
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\Newtonsoft.Json.dll
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\System.Net.Http.Formatting.dll
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\System.Spatial.dll
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\System.Web.Helpers.dll
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\System.Web.Http.dll
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\System.Web.Http.OData.dll
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\System.Web.Http.WebHost.dll
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\System.Web.Mvc.dll
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\System.Web.Optimization.dll
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\System.Web.Razor.dll
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\System.Web.WebPages.Deployment.dll
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\System.Web.WebPages.dll
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\System.Web.WebPages.Razor.dll
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\WebGrease.dll
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\WebMatrix.Data.dll
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\WebMatrix.WebData.dll
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\EntityFramework.xml
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\Newtonsoft.Json.xml
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\System.Net.Http.Formatting.xml
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\System.Web.Helpers.xml
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\System.Web.Http.xml
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\System.Web.Http.WebHost.xml
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\System.Web.Mvc.xml
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\System.Web.Razor.xml
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\System.Web.WebPages.xml
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\System.Web.WebPages.Deployment.xml
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\System.Web.WebPages.Razor.xml
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\WebMatrix.Data.xml
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\Microsoft.Web.WebPages.OAuth.xml
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\WebMatrix.WebData.xml
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\DotNetOpenAuth.AspNet.xml
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\DotNetOpenAuth.Core.xml
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\DotNetOpenAuth.OAuth.xml
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\DotNetOpenAuth.OpenId.xml
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\System.Web.Http.OData.xml
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\Microsoft.Data.Edm.xml
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\Microsoft.Data.OData.xml
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\System.Spatial.xml
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\de\Microsoft.Data.Edm.resources.dll
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\es\Microsoft.Data.Edm.resources.dll
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\fr\Microsoft.Data.Edm.resources.dll
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\it\Microsoft.Data.Edm.resources.dll
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\ja\Microsoft.Data.Edm.resources.dll
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\ko\Microsoft.Data.Edm.resources.dll
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\ru\Microsoft.Data.Edm.resources.dll
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\de\Microsoft.Data.OData.resources.dll
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\es\Microsoft.Data.OData.resources.dll
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\fr\Microsoft.Data.OData.resources.dll
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\it\Microsoft.Data.OData.resources.dll
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\ja\Microsoft.Data.OData.resources.dll
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\ko\Microsoft.Data.OData.resources.dll
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\ru\Microsoft.Data.OData.resources.dll
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\de\System.Spatial.resources.dll
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\es\System.Spatial.resources.dll
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\fr\System.Spatial.resources.dll
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\it\System.Spatial.resources.dll
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\ja\System.Spatial.resources.dll
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\ko\System.Spatial.resources.dll
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\ru\System.Spatial.resources.dll
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\zh-Hans\System.Spatial.resources.dll
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\zh-Hant\System.Spatial.resources.dll
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\obj\Debug\SharesBrokeringClient.dll
+c:\users\gavin royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\obj\Debug\SharesBrokeringClient.pdb
+C:\Users\Gavin Royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\obj\Debug\SharesBrokeringClient.csprojResolveAssemblyReference.cache
+C:\Users\Gavin Royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\SharesBrokeringService.dll
+C:\Users\Gavin Royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\SharesBrokeringService.pdb
+C:\Users\Gavin Royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\SharesBrokeringEntities.dll
+C:\Users\Gavin Royce\documents\visual studio 2013\Projects\SharesBrokeringClient\SharesBrokeringClient\bin\SharesBrokeringEntities.pdb
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\SharesBrokeringClient.dll.config
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\SharesBrokeringClient.dll
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\SharesBrokeringClient.pdb
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\Antlr3.Runtime.dll
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\DotNetOpenAuth.AspNet.dll
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\DotNetOpenAuth.Core.dll
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\DotNetOpenAuth.OAuth.dll
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\DotNetOpenAuth.OpenId.dll
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\EntityFramework.dll
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\Microsoft.Data.Edm.dll
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\Microsoft.Data.OData.dll
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\Microsoft.Web.Infrastructure.dll
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\Newtonsoft.Json.dll
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\SharesBrokeringEntities.dll
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\SharesBrokeringService.dll
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\System.Net.Http.Formatting.dll
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\System.Spatial.dll
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\System.Web.Helpers.dll
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\System.Web.Http.dll
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\System.Web.Http.OData.dll
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\System.Web.Http.WebHost.dll
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\System.Web.Mvc.dll
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\System.Web.Optimization.dll
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\System.Web.Razor.dll
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\System.Web.WebPages.Deployment.dll
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\System.Web.WebPages.dll
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\System.Web.WebPages.Razor.dll
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\WebGrease.dll
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\WebMatrix.Data.dll
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\WebMatrix.WebData.dll
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\SharesBrokeringEntities.pdb
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\SharesBrokeringService.pdb
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\EntityFramework.xml
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\Newtonsoft.Json.xml
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\System.Net.Http.Formatting.xml
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\System.Web.Helpers.xml
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\System.Web.Http.xml
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\System.Web.Http.WebHost.xml
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\System.Web.Mvc.xml
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\System.Web.Razor.xml
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\System.Web.WebPages.xml
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\System.Web.WebPages.Deployment.xml
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\System.Web.WebPages.Razor.xml
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\WebMatrix.Data.xml
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\WebMatrix.WebData.xml
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\DotNetOpenAuth.AspNet.xml
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\DotNetOpenAuth.Core.xml
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\DotNetOpenAuth.OAuth.xml
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\DotNetOpenAuth.OpenId.xml
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\System.Web.Http.OData.xml
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\Microsoft.Data.Edm.xml
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\Microsoft.Data.OData.xml
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\System.Spatial.xml
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\de\Microsoft.Data.Edm.resources.dll
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\es\Microsoft.Data.Edm.resources.dll
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\it\Microsoft.Data.Edm.resources.dll
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\de\Microsoft.Data.OData.resources.dll
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\es\Microsoft.Data.OData.resources.dll
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\fr\Microsoft.Data.OData.resources.dll
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\it\Microsoft.Data.OData.resources.dll
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\ja\Microsoft.Data.OData.resources.dll
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\ko\Microsoft.Data.OData.resources.dll
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\ru\Microsoft.Data.OData.resources.dll
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\de\System.Spatial.resources.dll
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\es\System.Spatial.resources.dll
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\fr\System.Spatial.resources.dll
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\it\System.Spatial.resources.dll
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\ja\System.Spatial.resources.dll
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\ko\System.Spatial.resources.dll
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\ru\System.Spatial.resources.dll
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\zh-Hans\System.Spatial.resources.dll
+C:\SharesBrokeringClient\SharesBrokeringClient\bin\zh-Hant\System.Spatial.resources.dll
+C:\SharesBrokeringClient\SharesBrokeringClient\obj\Debug\SharesBrokeringClient.csprojResolveAssemblyReference.cache
+C:\SharesBrokeringClient\SharesBrokeringClient\obj\Debug\SharesBrokeringClient.dll
+C:\SharesBrokeringClient\SharesBrokeringClient\obj\Debug\SharesBrokeringClient.pdb
