@@ -14,3 +14,11 @@ C:\SharesBrokeringClient\SharesBrokeringService\bin\Debug\SharesBrokeringEntitie
 C:\SharesBrokeringClient\SharesBrokeringService\obj\Debug\SharesBrokeringService.csprojResolveAssemblyReference.cache
 C:\SharesBrokeringClient\SharesBrokeringService\obj\Debug\SharesBrokeringService.dll
 C:\SharesBrokeringClient\SharesBrokeringService\obj\Debug\SharesBrokeringService.pdb
+C:\SharesBrokeringClient1\SharesBrokeringService\bin\Debug\SharesBrokeringService.dll.config
+C:\SharesBrokeringClient1\SharesBrokeringService\bin\Debug\SharesBrokeringService.dll
+C:\SharesBrokeringClient1\SharesBrokeringService\bin\Debug\SharesBrokeringService.pdb
+C:\SharesBrokeringClient1\SharesBrokeringService\bin\Debug\SharesBrokeringEntities.dll
+C:\SharesBrokeringClient1\SharesBrokeringService\bin\Debug\SharesBrokeringEntities.pdb
+C:\SharesBrokeringClient1\SharesBrokeringService\obj\Debug\SharesBrokeringService.csprojResolveAssemblyReference.cache
+C:\SharesBrokeringClient1\SharesBrokeringService\obj\Debug\SharesBrokeringService.dll
+C:\SharesBrokeringClient1\SharesBrokeringService\obj\Debug\SharesBrokeringService.pdb
